@@ -1,4 +1,4 @@
-Hi 👋 My name is Jamie Gable
+Hi 👋 I'm Jamie Gable
 ============================
 
 Full Stack Java Developer Java - JS - Spring - Maven - SQL
